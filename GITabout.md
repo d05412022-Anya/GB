@@ -10,12 +10,15 @@ git add
 ```sh
 git commit -m"message"
 ```
+## Список всех коммитов
 ```sh
 git log
 ```
+### Список коммитов упрощённый
 ```sh
 git log --oneline
 ```
+## Команда для переключения между коммитами
 ```sh
 git checkout
 ```
