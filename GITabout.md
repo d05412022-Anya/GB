@@ -33,5 +33,6 @@ git branch branch_name
 git merge branch_new
 ```
 ## Удаление ветви
+```sn
 git branch -d<branch_name>
 ```
