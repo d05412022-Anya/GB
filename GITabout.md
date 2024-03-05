@@ -37,3 +37,7 @@ git branch new
 ```sh
 git merge new
 ```
+## Добавление новой ветки
+*branch_new - название новой ветки, пробел не используется*
+```sh
+git branch branch_new
